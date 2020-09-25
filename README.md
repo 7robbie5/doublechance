@@ -1,2 +1,2 @@
-# doublechance
+# DoubleChance
 DoubleChance - Football Soccer Prediction
