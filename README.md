@@ -3,7 +3,7 @@
 
 ![double-chance-640x320](https://user-images.githubusercontent.com/70966215/95068332-71c68a80-0705-11eb-8e16-1e757e3863c0.jpg)
 
-Team selection = HA - TF > 10 - SFS > 50 - DC > 0 
+Team selection = HA - TF > 10 - F5 - SFS > 50 - DC > 0 
 
 Flashscore results
 
